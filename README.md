@@ -10,4 +10,4 @@ Here are some programs in C language:-
 7. Write a Program to calculate the area and perimeter of a rectangle based on its length and width.
 8. ⁠Write a program to Convert temperature from Celsius to Fahrenheit using the formula: F = (C * 9/5) + 32.
 9. Write a program to read a four digit integer and print the sum of its digits.
-
+10. Write a program to demostrate the use of post(x++) and pre(++x) increment on a variable and also print the value.
