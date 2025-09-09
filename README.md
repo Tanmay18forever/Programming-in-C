@@ -10,3 +10,6 @@ Here are some programs in C language:-
 7. ⁠Write a program to Convert temperature from Celsius to Fahrenheit using the formula: F = (C * 9/5) + 32.
 8. Write a program to read a four digit integer and print the sum of its digits.
 9. Write a program to demostrate the use of post(x++) and pre(++x) increment on a variable and also print the value.
+10. Write a program to print the size of various data types in C.
+11. Given three values write a program to read three values from keyboard and print out the largest of them.
+12. Write a C program that takes an integer input and uses the bitwise AND (&) operator along with a ternary operator to check whether the number is even or odd.
