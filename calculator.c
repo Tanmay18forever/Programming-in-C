@@ -9,7 +9,6 @@ int main() {
         scanf("%lf", &num1);
 
         printf("Enter an operation (+, -, *, /): ");
-        // Note the space before %c to consume any leftover newline character from previous scanf
         scanf(" %c", &operation); 
 
         printf("Enter second number: ");
@@ -41,11 +40,12 @@ int main() {
         }
 
         printf("Do you want to perform another calculation? (y/n): ");
-        scanf(" %c", &choice); // Again, space before %c for newline handling
+        scanf(" %c", &choice); 
 
     } while (choice == 'y' || choice == 'Y');
 
     printf("Calculator exited. Goodbye!\n");
 
     return 0;
+
 }
