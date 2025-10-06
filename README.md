@@ -31,4 +31,8 @@ Below 50  Grade F
 2 Tuesday, and so on
 If the user enters a number outside 1–7, print "Invalid input".
 17. Write a C program that takes two numbers and an operator (+, -, *, /) from the user and performs the operation using a switch case.
-18. 
+18. Write a program in C to calculate the sum of the first n natural numbers using a for loop
+19. Write a C program using a loop to check if a number is prime or not.
+20. Write a program to count how many digits a number has using a while loop.
+21. Write a C program to find the factorial of a number using a while loop.
+22. Write a C program for a simple calculator that repeatedly asks the user for two numbers and an operation (+, -, *, /) until the user chooses to exit. Must use a do while loop to repeat until exit.
