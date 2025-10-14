@@ -36,3 +36,7 @@ If the user enters a number outside 1–7, print "Invalid input".
 20. Write a program to count how many digits a number has using a while loop.
 21. Write a C program to find the factorial of a number using a while loop.
 22. Write a C program for a simple calculator that repeatedly asks the user for two numbers and an operation (+, -, *, /) until the user chooses to exit. Must use a do while loop to repeat until exit.
+23. Write a C program to find the maximum and minimum elements in an array using functions.
+24. Write a C program to reverse the elements of an array using a function.
+25. Write a C program to calculate the average of n numbers stored in an array using a function.
+26. Write a C program to count how many even and odd numbers are present in an array using functions.
